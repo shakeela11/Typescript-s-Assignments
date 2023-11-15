@@ -22,5 +22,5 @@ console.log(result2);
 console.log(result3);
 console.log(result4);
 //question:3 a string variable is declared here 
-var favouriteProgrammingLanguage:string = "there is nothing favourite kinda things in my case, i only take a hold on the things that are important are useful";
+var favouriteProgrammingLanguage:string = "there is nothing favourite kinda things in my case, i only take a hold on the things that are important or useful";
 console.log(favouriteProgrammingLanguage);
