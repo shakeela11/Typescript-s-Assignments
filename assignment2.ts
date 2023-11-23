@@ -9,7 +9,7 @@
  var length:number= 10;
  var width:number= 15;
  var areaOfRectangle = length*width;
- console.log("this is the area of a rentangle: " + areaOfRectangle);
+ console.log("this is the area of a rectangle: " + areaOfRectangle);
 
   //3- Write a program that calculates the area of a circle.
   //A=πr² πr=3.14 
@@ -57,12 +57,12 @@ console.log(`${givenSeconds} seconds is equal to ${minutes} minutes and ${second
  //(30/75)*100
  //0.4*100=40
 console.log(calculatePercentage);
- //8- Write a program that converts given number of days in to weeks and days such as 17 days = 2 weeks and 3 days.
+ //8- Write a program that converts a given number of days into weeks and days such as 17 days = 2 weeks and 3 days.
  var totalDays:number=365;
  var weeks:number= Math.floor(totalDays/7);
  var days:number= totalDays % 7;
  console.log("${totalDays} days is equal to ${weeks} weeks and ${days} days.");
- /*
+ 
 //Increment and Decrement Operator:
  //- Q1:
  let a:number= 2;
@@ -131,4 +131,4 @@ console.log(calculatePercentage);
  //2*(2+3)/(4-2)
  //2*5/2
  //2*2.5=5
-  m,3 o=3, n=2, result=5;*/
+  m,3 o=3, n=2, result=5;
