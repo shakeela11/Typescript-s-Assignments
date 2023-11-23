@@ -2,7 +2,7 @@
 //question:1 nameand age of the the person is declared here
 var userName:string = "shakeela naz";
 var age:number = 23;
-// either the person is student or not is printed through bolean data type
+//Either the person is student or not is printed through Bolean data type
 var student:boolean = true; 
 // all consoles are listed here
 console.log(userName);
