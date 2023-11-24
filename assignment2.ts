@@ -61,7 +61,7 @@ console.log(calculatePercentage);
  var totalDays:number=365;
  var weeks:number= Math.floor(totalDays/7);
  var days:number= totalDays % 7;
- console.log("${totalDays} days is equal to ${weeks} weeks and ${days} days.");
+ console.log(`${totalDays} days is equal to ${weeks} weeks and ${days} days.`);
  
 //Increment and Decrement Operator:
  //- Q1:
