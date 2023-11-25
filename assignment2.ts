@@ -62,6 +62,9 @@ console.log(calculatePercentage);
  var weeks:number= Math.floor(totalDays/7);
  var days:number= totalDays % 7;
  console.log(`${totalDays} days is equal to ${weeks} weeks and ${days} days.`);
+/*In TypeScript (and JavaScript), you can use both single quotes (') and double quotes (") for regular string literals,
+but for template literals, you must use backticks (`). Template literals provide a way to embed expressions within strings, 
+and they have a special syntax that allows for easy interpolation of variables and expressions.*/
  
 //Increment and Decrement Operator:
  //- Q1:
